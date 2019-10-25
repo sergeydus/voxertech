@@ -1,0 +1,145 @@
+body{
+    margin:0;
+    padding: 0;;
+}
+.Navbar{
+    margin: 0;
+    padding: 0;
+    /* background: pink; */
+    width: 100%;
+    background: rgb(246, 246, 246);
+    height: 56px;
+}
+.Navbar_navigation {
+    display: flex;
+    height: 100%;
+    /* align-items: center; */
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items:center;
+}
+.Navbar_navigation ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+}
+.Navbar_navigation li{
+    
+    list-style: none;
+    text-decoration: none;
+    margin: 0 1em;
+}
+.Navbar_navigation li a{
+    /* list-style: none; */
+    text-decoration: none;
+    color: rgb(21, 21, 21);
+    /* font-size: 15px; */
+    letter-spacing: 1.5px;
+}
+.Navbar_navigation li a:hover{
+    /* list-style: none; */
+    text-decoration: none;
+    color:rgb(161, 96, 0)
+}
+.burger-button{
+    background: transparent;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer ;
+    justify-content: space-between;
+    height: 24px;
+    display: none;
+
+}
+.burger-line{
+    /* margin: 3px 0 ; */
+    background: black;
+    height: 3px;
+    width:30px
+}
+.burger-button:hover .burger-line{
+    background: rgb(161, 96, 0);
+}
+.SideBar{
+    z-index: 200;
+    top:0;
+    left: 0;
+    position: fixed;
+    height: 100vh;
+    width:100vw;
+    background: rgba(0, 0, 0, 0.836);
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+    /* text-align: center; */
+}
+.SideBar-x{
+    display: flex;
+    justify-content: flex-end;
+    /* margin-top: 1em; */
+    margin-right: 1em;
+    font-size: 30px;
+    color: white;
+}
+.SideBar-x:hover{
+    color: rgb(255, 156, 2);
+    cursor: pointer;
+}
+.SideBar ul{
+
+    /* background: pink; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center
+}
+.SideBar ul li{
+    /* background: green; */
+    width: 60vw;
+    height: 50px;
+    text-align: left;
+    /* border-style: solid; */
+    /* padding:10px 5px; */
+    border-bottom: 1px solid rgb(138, 138, 138);
+}
+.SideBar ul li a{
+    /* background: green; */
+    margin-left: 1em;
+    color: white;
+    font-size: 25px;
+
+    /* word-wrap: break-word; */
+    text-align: center;
+}
+.SideBar ul li:hover a{
+    /* background: green; */
+    color:rgb(255, 156, 2);
+    /* font-size: 25px; */
+}
+.SideBar.open{
+    transform: translateX(0);
+}
+
+@media only screen and (max-width: 768px) {
+    .Navbar_navigation{
+        display:flex;
+        justify-content: flex-start;
+    }
+    .Navbar_navigation > ul{
+        display: none;
+    }
+    .burger-button{
+        margin-left: 2em;
+        background: transparent;
+        border: none;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer ;
+        justify-content: space-between;
+        height: 24px;
+        /* display: none; */
+    
+    }
+}
