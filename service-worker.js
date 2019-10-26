@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/voxertech/precache-manifest.7d0d57f9ff892b7df36df990d1f5d8ce.js"
+  "/voxertech/precache-manifest.1dc604e5e27f6cf3adf45464565607bf.js"
 );
 
 self.addEventListener('message', (event) => {
