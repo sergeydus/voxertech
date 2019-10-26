@@ -1,6 +1,6 @@
 body{
     margin:0;
-    padding: 0;;
+    padding: 0;
 }
 html {
     overflow-y:overlay ;
@@ -37,7 +37,7 @@ html {
     /* list-style: none; */
     text-decoration: none;
     color: rgb(21, 21, 21);
-    /* font-size: 15px; */
+    font-size: 15px;
     letter-spacing: 1.5px;
 }
 .Navbar_navigation li a:hover{

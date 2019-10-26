@@ -5,6 +5,7 @@ import Careers from './pages/Careers'
 import Home from './pages/Home'
 import ContactUs from './pages/ContactUs'
 import OurOffice from './pages/OurOffice'
+import SelectedCareer from './pages/Selected-career'
 // import Our-Office from '././pages/Our-office
 import './App.css';
 import {
@@ -23,6 +24,7 @@ function App() {
           <Header />
           <Switch>
             <Route exact path="/careers" component={Careers} />
+            <Route path="/careers/:careerId" component={SelectedCareer} />
             <Route exact path="/contact-us" component={ContactUs} />
             <Route exact path="/our-office" component={OurOffice} />
             <Route exact path="/" component={Home} />
