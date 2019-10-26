@@ -17,7 +17,7 @@ import {
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
 
       <div className="App" style={{height:'100%',width:'100%'}}>
           <Header />
