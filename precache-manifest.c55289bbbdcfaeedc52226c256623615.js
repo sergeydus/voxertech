@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8b2e37158fc8f33772d37c2b0795c41",
+    "revision": "48e7441f11b2307949aa17d90582a91a",
     "url": "/voxertech/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voxertech/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "cfee446bb0dc6ac936cb",
+    "revision": "c83b3f45724587a35f15",
     "url": "/voxertech/static/css/main.62cd8ae4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voxertech/static/js/2.9103f99c.chunk.js"
   },
   {
-    "revision": "cfee446bb0dc6ac936cb",
-    "url": "/voxertech/static/js/main.c885c741.chunk.js"
+    "revision": "c83b3f45724587a35f15",
+    "url": "/voxertech/static/js/main.b6d8d730.chunk.js"
   },
   {
     "revision": "4d08122b26e108cc20da",

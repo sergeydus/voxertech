@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/voxertech/static/css/main.62cd8ae4.chunk.css",
-    "main.js": "/voxertech/static/js/main.c885c741.chunk.js",
-    "main.js.map": "/voxertech/static/js/main.c885c741.chunk.js.map",
+    "main.js": "/voxertech/static/js/main.b6d8d730.chunk.js",
+    "main.js.map": "/voxertech/static/js/main.b6d8d730.chunk.js.map",
     "runtime-main.js": "/voxertech/static/js/runtime-main.a244b83c.js",
     "runtime-main.js.map": "/voxertech/static/js/runtime-main.a244b83c.js.map",
     "static/css/2.0624914a.chunk.css": "/voxertech/static/css/2.0624914a.chunk.css",
     "static/js/2.9103f99c.chunk.js": "/voxertech/static/js/2.9103f99c.chunk.js",
     "static/js/2.9103f99c.chunk.js.map": "/voxertech/static/js/2.9103f99c.chunk.js.map",
     "index.html": "/voxertech/index.html",
-    "precache-manifest.31eee9e28fa9680bb67c0e0b77536f87.js": "/voxertech/precache-manifest.31eee9e28fa9680bb67c0e0b77536f87.js",
+    "precache-manifest.c55289bbbdcfaeedc52226c256623615.js": "/voxertech/precache-manifest.c55289bbbdcfaeedc52226c256623615.js",
     "service-worker.js": "/voxertech/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/voxertech/static/css/2.0624914a.chunk.css.map",
     "static/css/main.62cd8ae4.chunk.css.map": "/voxertech/static/css/main.62cd8ae4.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.0624914a.chunk.css",
     "static/js/2.9103f99c.chunk.js",
     "static/css/main.62cd8ae4.chunk.css",
-    "static/js/main.c885c741.chunk.js"
+    "static/js/main.b6d8d730.chunk.js"
   ]
 }
