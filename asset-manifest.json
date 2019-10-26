@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/voxertech/static/css/main.87c6330e.chunk.css",
-    "main.js": "/voxertech/static/js/main.ef4ca6f0.chunk.js",
-    "main.js.map": "/voxertech/static/js/main.ef4ca6f0.chunk.js.map",
+    "main.css": "/voxertech/static/css/main.a1da7672.chunk.css",
+    "main.js": "/voxertech/static/js/main.c885c741.chunk.js",
+    "main.js.map": "/voxertech/static/js/main.c885c741.chunk.js.map",
     "runtime-main.js": "/voxertech/static/js/runtime-main.a244b83c.js",
     "runtime-main.js.map": "/voxertech/static/js/runtime-main.a244b83c.js.map",
     "static/css/2.0624914a.chunk.css": "/voxertech/static/css/2.0624914a.chunk.css",
-    "static/js/2.a838a450.chunk.js": "/voxertech/static/js/2.a838a450.chunk.js",
-    "static/js/2.a838a450.chunk.js.map": "/voxertech/static/js/2.a838a450.chunk.js.map",
+    "static/js/2.9103f99c.chunk.js": "/voxertech/static/js/2.9103f99c.chunk.js",
+    "static/js/2.9103f99c.chunk.js.map": "/voxertech/static/js/2.9103f99c.chunk.js.map",
     "index.html": "/voxertech/index.html",
-    "precache-manifest.1dc604e5e27f6cf3adf45464565607bf.js": "/voxertech/precache-manifest.1dc604e5e27f6cf3adf45464565607bf.js",
+    "precache-manifest.d02185be2a7fe08125bd55a8aaec2aeb.js": "/voxertech/precache-manifest.d02185be2a7fe08125bd55a8aaec2aeb.js",
     "service-worker.js": "/voxertech/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/voxertech/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.87c6330e.chunk.css.map": "/voxertech/static/css/main.87c6330e.chunk.css.map"
+    "static/css/main.a1da7672.chunk.css.map": "/voxertech/static/css/main.a1da7672.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a244b83c.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.a838a450.chunk.js",
-    "static/css/main.87c6330e.chunk.css",
-    "static/js/main.ef4ca6f0.chunk.js"
+    "static/js/2.9103f99c.chunk.js",
+    "static/css/main.a1da7672.chunk.css",
+    "static/js/main.c885c741.chunk.js"
   ]
 }
